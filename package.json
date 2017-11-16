@@ -1,0 +1,20 @@
+{
+  "name": "euphoria-colors",
+  "version": "1.0.0",
+  "description": "This is an NPM friendly version of the function from the euphoria.io frontend which assigns colors, its licensed as CC v4 and was made by euphoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaliumxyz/euphoria-colors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC",
+  "bugs": {
+    "url": "https://github.com/kaliumxyz/euphoria-colors/issues"
+  },
+  "homepage": "https://github.com/kaliumxyz/euphoria-colors#readme"
+}
