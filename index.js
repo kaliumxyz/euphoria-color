@@ -29,4 +29,4 @@ function hueHash(text, offset = 0) {
 	return (val + offset) % 255
 }
 
-module.exports = color
+module.exports = hueHash
