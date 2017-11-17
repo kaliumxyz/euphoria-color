@@ -26,7 +26,7 @@ function hueHash(text, offset = 0) {
 
 	// add the calibration offset and scale within 0-254 (an arbitrary range kept
 	// for consistency with prior behavior).
-	return (val + offset)
+	return (val + offset) % 255
 }
 
 module.exports = color
